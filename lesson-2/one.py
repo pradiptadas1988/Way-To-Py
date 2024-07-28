@@ -3,6 +3,7 @@
 def func():
     print("In func 1.")
 
+
 print("Top level in one.py")
 
 if __name__ == "__main__":

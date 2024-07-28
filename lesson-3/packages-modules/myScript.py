@@ -1,4 +1,4 @@
-from MyPackage import  main_package_script
+from MyPackage import main_package_script
 from MyPackage.MySubPackage import sub_package_script
 
 from myModule import my_func
